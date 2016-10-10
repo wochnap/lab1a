@@ -1,13 +1,10 @@
 html, body  
 	{background: #ffffff; 
-	 text-align: center; 
+	 text-align: left; 
 	 font-size: 1em; 
 	 font-family: calibri;
 	}
 	
-body
-{margin: 0 ! important;
-}
 
 h1
 {color: #808080
